@@ -7,7 +7,7 @@ spec:
   type: team
   profile:
     # Intentional no displayName for testing
-    email: team-a@example.com
+    email: psaparam@gmail.com
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: backstage
   children: []
@@ -40,8 +40,8 @@ metadata:
   name: nigel.manning
 spec:
   profile:
-    displayName: Nigel Manning
-    email: nigel-manning@example.com
+    displayName: Param Manning
+    email: psaparam@gmail.com
     picture: https://avatars.dicebear.com/api/avataaars/nigel-manning@example.com.svg?background=%23fff
   memberOf: [team-a]
 ---
@@ -55,6 +55,6 @@ metadata:
 spec:
   profile:
     displayName: Guest User
-    email: guest@example.com
+    email: psaparam@gmail.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [team-a]
